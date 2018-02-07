@@ -14,4 +14,6 @@ Note: This was compiled on a Linux system using g++
 
 As the program executes, the output will be written to the terminal as well as to the output file.
 
+## Screenshot
 
+![](araig.png)
